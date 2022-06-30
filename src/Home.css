@@ -1,0 +1,48 @@
+.main-name{
+    background: linear-gradient(90deg, #270082 4.09%, #2A95DD 87.38%);
+    -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+.main-name2{
+    color: orange;
+}
+.aa:hover{
+    background: linear-gradient(90deg, #270082 4.09%, #2A95DD 87.38%);
+    color: white;
+}
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+
+  .swiper-slide img {
+    height: 100%;
+    width: 100%;
+  }
+  .bg-color{
+    background-color: rgba(42, 149, 221, 0.06);
+    border-radius: 20px;
+  }
+ .bg-color-div{
+  background: linear-gradient(88.26deg, rgba(139, 142, 150, 0.0378) 0%, rgba(29, 33, 48, 0.09) 96.59%);
+  border-radius: 24px;
+ }
+ .div-bg-color{
+  background: rgba(223, 242, 255, 0.64);
+  border-radius: 24px;
+ }
+ .div-box-radius{
+   border-radius: 15px;
+ }
+ .div-box-radius1{
+   border-radius: 20px;
+ }
